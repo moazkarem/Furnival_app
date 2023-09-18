@@ -1,0 +1,151 @@
+.side-bar-admine{
+    width: 270px;
+    background-color: #04223f;
+    position: fixed;
+    height: 100vh;
+}
+.left-sec h3 {
+    font-size: 24px;
+    margin: 0;
+    line-height: 1.6;
+    color: #fff;
+  }
+  .sec-admin p{
+    color: #fff;
+    font-size: 18px;
+  }
+  .logo-img {
+    width: 36px;
+    height: 47px;
+  }
+  .element-admin{
+    cursor: pointer;
+    padding: 10px;
+  }
+  .element-admin:hover{
+    cursor: pointer;
+    background-color: #ffb921;
+  }
+  .element-admin span{
+  font-size: 20px;
+  color: #fff;
+  }
+  .content-admin-page{
+    margin-left: 270px;
+    background-color: #021629;
+  }
+  .title-admin{
+    color: #fff;
+  }
+.p-01{
+  color: #ffb921;
+}
+.p-02{
+  color: #fff;
+}
+
+.sec-01{
+
+}
+.tabl-progress{
+  width: 490px;
+  height: 230px;
+  
+  border-collapse: initial;
+  border-radius: 10px !important;
+ 
+}
+.tabl-progress th , td{
+  color: #fff;
+  text-align: center;
+  border-right: 1px solid #fff;
+  border-bottom : #aaa solid 1px ;
+}
+.tabl-progress tr{
+
+
+}
+.table>:not(caption)>*>*{
+  border-bottom-width: none;
+}
+.tabl-progress td{
+
+}
+.card-01{
+  width: 290px;
+ 
+  background-color: #04223f;
+  border-radius: 15px;
+  border: solid 1px #fff;
+}
+.card-01 h5{
+color: #fff;
+}
+.card-01 h6{
+  text-transform: capitalize;
+  color: #fff;
+  font-size: 22px;
+}
+.card-01 .prices-sec span{
+  color: #ffb921;
+  font-size: 18px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

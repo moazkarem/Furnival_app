@@ -1,0 +1,28 @@
+
+.all-home{
+    position: relative;
+}
+.top-hide{
+    background-color: #ffb921;
+    border: none;
+    color: #fff;
+    font-weight: bold;
+    border-radius: 4px;
+    position: fixed;
+    right: 20px;
+    bottom: 20px;
+    display: none;
+    padding-bottom: 5px;
+}
+.topShow{
+    background-color: #ffb921;
+    border: none;
+    color: #fff;
+    font-weight: bold;
+    border-radius: 4px;
+    position: fixed;
+    right: 20px;
+    bottom: 20px;
+    display: block;
+    padding-bottom: 5px;
+}

@@ -1,0 +1,36 @@
+.modern-sec {
+  margin-bottom: 80px;
+}
+.same-top {
+  width: 310px;
+  height: 310px;
+  border-radius: 10px;
+}
+.big-bottom {
+  width: 638px;
+  height: 587px;
+  border-radius: 10px;
+}
+.big-right {
+  width: 311px;
+  height: 587px;
+  border-radius: 10px;
+}
+.small-right {
+  width: 310px;
+  height: 310px;
+  border-radius: 10px;
+  position: relative;
+}
+.modern-sec img {
+  cursor: pointer;
+}
+.big-bottom::before {
+  content: "";
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background-color: black;
+}

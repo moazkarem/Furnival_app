@@ -1,0 +1,35 @@
+.serv-sec {
+  margin-bottom: 140px;
+}
+.bg-serv {
+}
+.bg-serv img {
+  width: 772px;
+  height: 324px;
+  margin-bottom: -80px;
+}
+.all-serv {
+  background-color: #133a5e;
+  border-radius: 15px;
+}
+.sec-cards-serv div {
+  background-color: #fff;
+  text-align: center;
+  border-bottom-left-radius: 10px;
+  border-bottom-right-radius: 10px;
+  margin-right: 10px;
+  line-height: 2;
+}
+.sec-cards-serv div h3 {
+  color: #133a5e;
+  font-size: 30px;
+}
+.sec-cards-serv div h1 {
+  font-size: 20px;
+  font-weight: 700;
+  color: #133a5e;
+}
+.sec-cards-serv div p {
+  color: #475569;
+  font-size: 16px;
+}

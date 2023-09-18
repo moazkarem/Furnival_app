@@ -1,0 +1,19 @@
+.sec-inputs-add{
+  
+    width: 600px;
+
+    
+}
+.label-add{
+    color: #fff;
+}
+.save-add{
+    background-color: #ffb921;
+    color: #fff;
+    width: 150px;
+    border: none;
+    outline: none;
+    text-align: center;
+    border-radius: 10px;
+    
+}

@@ -1,0 +1,70 @@
+.headere {
+  position: relative;
+  height: 47px;
+  background-color: #133a5e;
+}
+
+.left-sec h3 {
+  font-size: 24px;
+  margin: 0;
+  line-height: 1.6;
+  color: #fff;
+}
+.logo-img {
+  width: 36px;
+  height: 47px;
+}
+.tog-icon {
+  position: absolute;
+  top: 10px;
+}
+.login {
+  width: 100px;
+  font-size: 18px;
+  color: #133a5e;
+  background-color: #ffb921;
+  border: none;
+  outline: none;
+  border-radius: 15px;
+  font-weight: 400;
+}
+.link-head {
+  color: #fff;
+  font-weight: 500;
+  font-size: 15px;
+}
+.link-head:hover {
+  color: #fff !important;
+}
+@media (max-width: 600px) {
+  .links-lars-screen {
+    display: none;
+  }
+}
+@media (min-width: 601px) and (max-width: 912px) {
+  .links-lars-screen {
+    display: none;
+  }
+}
+
+@media (min-width: 913px) {
+  .tog-icon {
+    display: none;
+  }
+}
+.shop-cart {
+  position: relative;
+}
+.badge {
+  background-color: #ffb921 !important;
+  color: #133a5e;
+  padding: 0px 6px !important;
+  border-radius: 14px;
+  position: absolute;
+  left: 12px;
+  top: -3px;
+}
+.modal-content {
+  border-radius: 20px;
+  width: 350px;
+}

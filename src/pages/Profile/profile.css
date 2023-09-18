@@ -1,0 +1,99 @@
+.side-bar-profile{
+    background-color: #f1f0f6;
+    width: 300px;
+    height: 100vh ;
+    position: fixed;
+    transition: all .3s;
+    border-top-right-radius: 15px;
+    border-bottom-right-radius: 15px;
+}
+.sec-img-profile img{
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+    margin-bottom: 8px;
+}
+.sec-img-profile h4{
+   color:#133a5e;
+   font-size: 20px;
+   margin-bottom: 8px;
+}
+.sec-img-profile p{
+    color:#6b7280;
+    font-size: 16px;
+    margin-bottom: 8px;
+ }
+.info-account{
+    width: 100% !important;
+    display: flex;
+   padding-left: 50px;
+    align-items: center;
+    margin-bottom: 25px;
+    transition: all .3s;
+}
+.info-account span{
+    color: #374151;
+    transition: all .3s;
+    cursor: pointer;
+}
+.user-info {
+    width: 100% !important;
+    
+}
+.togg-icon{
+    cursor: pointer;
+    
+}
+
+.profile-input input{
+   
+    background-color: #f3f6f9;
+}
+.profile-input input:focus{
+   border-color: #133a5e;
+   background-color: #f3f6f9;
+   
+    box-shadow: none;
+}
+
+.profile-input label{
+    color: #133a5e;
+    text-transform: capitalize;
+    font-size: 18px;
+    font-weight: 400;
+}
+.profile-input label span{
+    color: red;
+}
+
+.btn-user-info{
+    width: 180px;
+    height: 41px;
+    color: #fff;
+    background-color: #133a5e;
+    border-radius: 3px;
+    text-transform: capitalize;
+    border: none;
+    outline: none;
+    border-radius: 15px;
+}
+.btn-user-info:hover{
+    background-color: #133a5e;
+    color: #fff;
+}
+
+.btn-change{
+    width: 180px;
+    height: 41px;
+    color: #133a5e;
+    background-color: #fff;
+    border-radius: 3px;
+    text-transform: capitalize;
+    border: 1px #133a5e solid;
+    outline: none;
+    border-radius: 15px;
+}
+.btn-change:hover{
+    background-color: #133a5e;
+    color: #fff;
+}

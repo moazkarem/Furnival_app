@@ -1,0 +1,46 @@
+.best-sel-cards {
+  width: 224px;
+  height: 288px;
+  position: relative;
+  cursor: pointer;
+  transition: all 0.3s ease-in-out;
+}
+.best-sel-cards:hover {
+  transform: scale(0.9);
+}
+.best-sel-cards img {
+  width: 100%;
+  height: 100%;
+  border-radius: 15px;
+}
+.all-best {
+  margin-bottom: 80px;
+}
+.details-best {
+  background-color: #fff;
+  width: 198px;
+  height: 80px;
+  padding: 9px 15px;
+  border-radius: 8px;
+  position: absolute;
+  left: 11px;
+  bottom: -50px;
+}
+.details-best p {
+  font-size: 14px;
+  color: #133a5e;
+  font-weight: 300;
+}
+.details-best .price {
+  font-size: 16px;
+  font-weight: 500;
+}
+.icon-star {
+  background-color: #8fc83d;
+  font-size: 15px;
+  padding: 5px;
+  border-radius: 8px;
+  text-align: center;
+  line-height: 5px;
+  color: #fff;
+}

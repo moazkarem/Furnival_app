@@ -1,0 +1,240 @@
+.content-topsec{
+    
+    width: 60%;
+   
+}
+.content-topsec p{
+    color: #133a5e;
+    font-size: 16px;
+    font-weight: 500;
+    text-align: center;
+}
+.content-topsec div{
+    width: 40px;
+    height: 40px;
+    border-radius:50%;
+    background-color: #133a5e;
+    position: relative;
+    text-align: center;
+    line-height: 40px;
+    color: #fff;
+}
+.step-1::after{
+    content: '';
+   
+    color: #133a5e;
+    width: 289px;
+    height: 5px;
+    background-color: #133a5e;
+    position: absolute;
+    top: 50%;
+    left: 39.3px;
+    font-size: 20px;
+    font-weight: 700;
+    display: flex;
+    justify-content: start;
+    align-items: start;
+}
+.step-2::after{
+    content: '';
+   
+    color: #133a5e;
+    width: 289px;
+    height: 5px;
+    background-color: #133a5e;
+    position: absolute;
+    top: 50%;
+    left: 39.7px;
+    font-size: 20px;
+    font-weight: 700;
+    display: flex;
+    justify-content: start;
+    align-items: start;
+}
+.top-sec{
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center
+}
+.left-side{
+    background-color: #f9fafb;
+    border-radius: 15px;
+}
+.right-side{
+    background-color: black;
+    height: 200px;
+   
+   
+}
+.cards-content{
+    
+    
+}
+.product-imge{
+    width:100%;
+    height: 100%;
+    border-radius: 15px;
+}
+.sec-img{
+    width:160px ;
+    height: 160px;
+    
+}
+.sec-details{
+    width:calc(100% - 180px)
+}
+.first-div{
+    width: 100% !important;
+}
+.sec-details .first-div .name-prod {
+ color: #133a5e;
+ font-size: 18px;
+ font-weight: 700;
+ 
+}
+.icon-del{
+    color: red;
+}
+.total-units{
+    color: #133a5e;
+    font-size: 16px;
+}
+.sec-div .price{
+    color: #133a5e;
+    font-weight: bold;
+    font-size: 18px;
+}
+.empt{
+    height: calc(100vh - 70px);
+
+  }
+  .empt h2{
+   color: #133a5e;
+   opacity: 70%;
+   font-size: 24px;
+  }
+.control-prod{
+    width: 40px;
+    height: 40px;
+    text-align: center;
+    line-height: 40px;
+    background-color: #f6f6f6;
+    color: #ffb921;
+    font-size: 25px;
+    border-radius: 10px;
+    font-weight: bold;
+    cursor: pointer;
+    border: none;
+    outline: none;
+    text-align: center;
+    line-height: 40px;
+    
+}
+.quantity-prod{
+    color: #133a5e;
+    font-size: 16px;
+
+}
+
+.left-sectio {
+    height: 200px;
+
+    background-color: red;
+}
+
+
+.icon-del{
+    padding: 10px 15px;
+    background-color: #fff;
+    color: #c83d3d;
+    border-radius: 50%;
+}
+.icon-del:hover{
+  background-color: #c83d3d !important;
+  color: #fff !important;
+  cursor: pointer;
+  border-radius: 50%;
+}
+.func-total{
+   background-color: #c83d3d;
+   padding: 18px;
+   background-color: #f9fafb;
+   border-radius: 10px;
+   box-shadow: 2px 6px 5px 0px rgba(166, 173, 187, 0.75);
+   -webkit-box-shadow: 2px 6px 5px 0px rgba(166, 173, 187, 0.75);
+   -moz-box-shadow: 2px 6px 5px 0px rgba(166, 173, 187, 0.75)
+}
+.func-total h3{
+    font-size: 20px;
+    color: #133a5e;
+    font-weight: 700;
+}
+.totale{
+    font-size: 16px;
+    color: #4b5563;
+}
+.apply{
+    background-color: #ffb921;
+    color: #fff;
+    padding: 8px 12px;
+    border-radius: 8px;
+    font-size: 16px;
+    font-weight: 500;
+    margin-bottom: 8px;
+    border: none;
+    outline: auto;
+    width: 150px;
+    height: 40px;
+    margin-left: 10px;
+}
+.pric{
+    color: #133a5e;
+    font-size: 18px;
+    font-weight: 700;
+}
+.right-sectio{
+  margin-bottom: 160px !important;
+    height: 200px;
+}
+.btn-cart{
+    background-color: #133a5e;
+    color: #fff;
+    padding: 8px 12px;
+    border-radius: 8px;
+    font-size: 16px;
+    font-weight: 500;
+    margin-bottom: 8px;
+    border: none;
+    outline: auto;
+    width: 261px;
+    height: 40px;
+}
+.content-topsec span{
+    width: 40px;
+    height: 40px;
+    border-radius:50%;
+    background-color: #133a5e;
+}
+.phone-addres{
+    font-size: 16px;
+    color: #133a5e;
+}
+.adres-type{
+    font-size: 16px;
+    color: #133a5e;
+}
+.nam-addres{
+    text-transform: capitalize;
+    font-size: 24px;
+    font-weight: 600;
+    color: #133a5e;
+}
+.chck{
+   background-color:  #16a34a;
+   color: #fff;
+   padding: 1px 7px;
+   border-radius: 40%;
+   line-height: 20px;
+   font-size: 14px;
+}

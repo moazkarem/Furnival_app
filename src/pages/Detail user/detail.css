@@ -1,0 +1,68 @@
+.righte-details {
+  max-width: 258px;
+}
+.righte-details h4 {
+  color: #1e3a8a;
+  font-size: 20px;
+  font-weight: 700;
+}
+.righte-details .p-price {
+  color: #1e3a8a;
+  font-size: 24px;
+}
+.righte-details .p-title {
+  color: #1e3a8a;
+  font-size: 16px;
+  line-height: 1.4;
+}
+.righte-details .p-color {
+  color: #1e3a8a;
+  font-size: 18px;
+  text-transform: capitalize;
+  font-weight: 500;
+}
+.p-color span {
+  color: #000;
+}
+.left-imge {
+  width: 157px;
+  height: 160px;
+  border-radius: 12px;
+}
+.main-img-det {
+  width: 473px;
+  height: 515px;
+  border-radius: 12px;
+}
+.add-details {
+  width: 220px;
+  border-radius: 12px;
+  background-color: #133a5e;
+  font-size: 18px;
+  color: #fff;
+  font-weight: 500;
+  border: 1px #000 solid;
+  outline: none;
+}
+.main-img0det {
+  position: relative;
+}
+.main-img0det span {
+  background-color: #ffb921;
+  position: absolute;
+  top: 10px;
+  right: 20px;
+  border-radius: 0%;
+  width: 40px;
+  text-align: center;
+  line-height: 40px;
+  color: #fff;
+  height: 40px;
+  border-radius: 50%;
+  cursor: pointer;
+  transition: 0.3s;
+}
+.main-img0det span:hover {
+  background-color: #fff !important;
+  color: #ffb921 !important;
+}

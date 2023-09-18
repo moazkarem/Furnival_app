@@ -1,0 +1,27 @@
+.logo-in{
+    width: 80px;
+    height:105px
+}
+.title-modal h3{
+    color: #133a5e;
+    font-size: 30px;
+}
+.sign-in{
+    width: 220px !important;
+    border: 1px solid #000 !important;
+  margin-right: 8px !important;
+}
+.forget{
+    color: #ffa500;
+    font-size: 16px;
+    cursor: pointer;
+}
+.have-account{
+ color: #133a5e;
+ font-size: 16px;
+}
+.have-account span{
+    color: #ffa500 !important;
+    cursor: pointer;
+    font-size: 16px;
+}

@@ -1,0 +1,70 @@
+.content-adminproducts{
+    margin-left: 270px;
+    background-color: #021629;
+}
+.table-products {
+ 
+ width: 100%;
+}
+
+.table-products td ,th{
+    padding: 10px;
+    border-right: 1px solid #fff !important;
+    border:  1px solid #fff;
+    color: #fff;
+    text-align: center;
+   text-transform: capitalize;
+
+}
+.table-products th{
+    color: #ffb921;
+}
+.product-admin-image{
+    width: 50px;
+    height: 50px;
+    border-radius: 50px;
+}
+.Add-product-admin{
+    background-color: #ffb921;
+    padding-left: 12px;
+    padding-right: 12px;
+    font-size: 18px;
+    color: #fff;
+    border-radius: 10px;
+    outline: none;
+    border: none;
+}
+.swal2-confirm {
+    margin-top: 1rem !important;
+    background-color: rgb(25, 135, 84) !important;
+  }
+  .edit-icon{
+    color: rgb(194, 21, 194);
+}
+.del-icon-admin{
+    color: rgb(223, 34, 44);
+}
+.view-admin{
+    color: #198754
+    ;
+}  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

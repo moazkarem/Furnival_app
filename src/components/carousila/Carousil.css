@@ -1,0 +1,92 @@
+.cars {
+  height: calc(100vh- 47px);
+  position: relative;
+  margin-bottom: 80px;
+}
+.bg-cras {
+  height: 92.3vh;
+}
+.text-intro {
+  max-width: 340px;
+  margin-right: 100px !important;
+}
+.text-intro p {
+  font-size: 20px;
+  font-weight: 300;
+  color: #fff;
+  background-color: rgba(0, 0, 0, 0.233);
+  padding: 15px;
+  border-top-left-radius: 30px;
+  border-bottom-right-radius: 30px;
+}
+.text-intro h3 {
+  font-size: 39px;
+  font-weight: 800;
+  color: #ffb921 !important;
+}
+.imgs-content {
+  position: relative;
+}
+.slide-small {
+  width: 176px;
+  height: 233px;
+  background-image: url("../../assets/images/carousil/img1.jpg");
+  background-size: cover;
+  position: absolute;
+  bottom: 100px;
+  right: 200px;
+  border-radius: 18px;
+}
+.slide-small2 {
+  width: 176px;
+  height: 233px;
+  background-image: url("../../assets/images/carousil/img11.jpg");
+  background-size: cover;
+  border-radius: 18px;
+}
+.end-slide {
+  position: absolute;
+  top: 200px;
+
+  width: 100%;
+}
+
+.btns {
+  width: 150px;
+  height: 30px;
+  line-height: 15px;
+  border-radius: 25px;
+  background-color: #133a5e;
+  color: #fff;
+  border: none;
+  outline: none;
+  font-size: 18px;
+  font-weight: 500;
+  transition: 0.5s all ease-in-out;
+  z-index: 1000000000;
+}
+.btns:hover {
+  background-color: #133a5e;
+  color: #fff;
+}
+.cont-item-cars {
+  position: relative;
+}
+.cars {
+  position: relative;
+}
+/* .cars::after{
+    content: "";
+    position: absolute;
+    top: 0;
+    left: 0;
+    background-color: #0000005b;
+    width: 100%;
+    height: 100%;
+   
+} */
+
+@media (max-width: 600px) {
+}
+@media (min-width: 601px) and (max-width: 912px) {
+}
