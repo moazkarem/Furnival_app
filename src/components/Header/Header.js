@@ -49,6 +49,7 @@ const Header = () => {
           className="bg-body-tertiary pt-1 fixed-top d-flex justify-content-center m-0 headere"
         >
           <Container>
+            <h1>hello moaz</h1>
             <div className="div-all-ele d-flex justify-content-around align-items-center w-100">
               <div className="left-sec d-flex ">
                 <img src={logo} alt="logo-project" className="logo-img" />
